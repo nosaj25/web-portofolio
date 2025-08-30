@@ -68,7 +68,7 @@ export default function Portfolio() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a
-                href="https://docs.google.com/document/d/1T1F4337FpyeLO58R9sq50ZLt0ljHt0yPemDDCH4FwqA/edit?usp=sharing"
+                href="https://drive.google.com/file/d/1PSqAamAIP85q-TUvS7PGS2NZ6cgzMD_0/view?usp=share_link"
                 target="_blank"
                 rel="noopener noreferrer"
             >
