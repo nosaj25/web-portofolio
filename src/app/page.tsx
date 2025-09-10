@@ -416,7 +416,7 @@ export default function Portfolio() {
                     <div className="flex flex-wrap gap-3">
                       <Button
                         className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700"
-                        onClick={() => window.open("https://docs.google.com/document/d/1_HdsI5Cq_NczGxuVm4lvCU6iWoXnlI3cphg68wXZ55Y/edit?tab=t.0", "_blank")}
+                        onClick={() => window.open("https://docs.google.com/document/d/1xn9vm_hFGd_lBDp-X3LbMR5RC13jJt08dGUJ-0yoIps/edit?usp=sharing", "_blank")}
                       >
                         Full Project Report <ExternalLink className="w-4 h-4 ml-2" />
                       </Button>
